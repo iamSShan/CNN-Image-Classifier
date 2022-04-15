@@ -2,7 +2,7 @@
 
 We will use CNN for classification, we will classify small images CIFAR dataset from tensorflow keras datasets. There are total 10 classes as shown below.
 
-[dataset image](images/dataset_image.jpg)
+![dataset image](./images/dataset_image.jpg)
 
 ## Dataset
 We have used **CIFAR-10 dataset**. The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes. More information and download link can be found [here](https://www.cs.toronto.edu/~kriz/cifar.html).
